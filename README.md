@@ -1,3 +1,3 @@
-# logging of use
+# logging of use [![Build Status](https://travis-ci.org/fooofei/py_logging.svg?branch=master)](https://travis-ci.org/fooofei/py_logging)
 
-tow error use, one recommended use.
+two error use, one recommended use.
